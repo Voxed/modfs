@@ -24,8 +24,8 @@ $ sudo apt install libfuse3-dev meson
 ```
 then run the following commands
 ```
-$ git clone ...
-$ cd ...
+$ git clone https://github.com/Voxed/modfs.git
+$ cd modfs
 $ mkdir build
 $ cd build
 $ meson ..
